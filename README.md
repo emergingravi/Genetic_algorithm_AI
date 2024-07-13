@@ -66,6 +66,16 @@ To run this project from google collab, follow these steps:
 
 
 ## Algorithm Details
+
+### paramters initalization
+```bash
+popn_size = 100
+int_len = 4
+frac_len = 6
+bit_len = 1 + int_len + frac_len
+mut_rate = 0.1
+gen = 100
+```
 ### Fitness Function
   The fitness function evaluates how close a given solution is to the actual solution of the quadratic equation:
 ```bash
