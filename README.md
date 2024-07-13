@@ -30,10 +30,9 @@ This project demonstrates how to use genetic algorithms to solve a quadratic equ
 To run this project from google collab, follow these steps:
 
 ### 1. Clone the repository:
-
+   open any folder in vscode
    ```bash
-   git clone https://github.com/PrijeshBikramShahi/Genetic_Algorithm.git
-   cd Genetic_Algorithm
+   git clone https://github.com/emergingravi/Genetic_algorithm_AI.git
    ```
 
 ### 2. installation
